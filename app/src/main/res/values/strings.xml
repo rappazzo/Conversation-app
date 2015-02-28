@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Talk To Me</string>
+
+    <string name="you_label">You</string>
+
+    <string name="talk_button">Talk</string>
+    <string name="conversation_content">Press \'Talk\'\nto start</string>
+    <string name="listening_prompt">Listening...</string>
+
+    <string name="speech_not_supported">Speech input is not supported on your device.  Sorry.</string>
+</resources>
